@@ -2,6 +2,8 @@
 
 Declaratively manage `kwinrulesrc`.
 
+WIP! 🏳️‍⚧️
+
 
 ### discord log of bri's chat to the void on how this should work:
 
