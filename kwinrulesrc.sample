@@ -1,0 +1,39 @@
+[8dfb437f-ac7b-4ada-8ab2-ff34d1f0dfe4]
+Description=Window settings for Quick Access — 1Password
+above=true
+aboverule=2
+desktops=\\0
+desktopsrule=2
+layer=popup
+layerrule=2
+placementrule=2
+skippager=true
+skippagerrule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+title=Quick Access — 1Password
+titlematch=1
+wmclass=1Password
+wmclassmatch=1
+
+[General]
+count=2
+rules=c4111977-4c56-44b5-8db4-a75923b98988,8dfb437f-ac7b-4ada-8ab2-ff34d1f0dfe4
+
+[c4111977-4c56-44b5-8db4-a75923b98988]
+Description=Application settings for org.kde.plasma.emojier
+above=true
+aboverule=2
+acceptfocus=true
+acceptfocusrule=2
+skippager=true
+skippagerrule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+wmclass=plasma-emojier org.kde.plasma.emojier
+wmclasscomplete=true
+wmclassmatch=1

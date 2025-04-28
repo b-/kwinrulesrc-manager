@@ -1,0 +1,3 @@
+crudini @ git+https://github.com/pixelb/crudini.git@f3811bc0b2c19be373d0cdaf85378c823ecc8187
+iniparse==0.5
+six==1.17.0
