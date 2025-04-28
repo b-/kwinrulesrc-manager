@@ -70,3 +70,5 @@ Declaratively manage `kwinrulesrc`.
 > 4. run the crud tool to upsert each rule that's in the cache into kwinrulesrc
 > 5. tell kwin to reload kwinrulesrc
 > 
+>
+> oh and that's annoying, kde's built-in kwinrules export doesn't save the UUIDs (using the description/name as the key instead), and doesn't overwrite anything with the same description/name
