@@ -1,0 +1,15 @@
+[c4111977-4c56-44b5-8db4-a75923b98988]
+Description=Application settings for org.kde.plasma.emojier
+above=true
+aboverule=2
+acceptfocus=true
+acceptfocusrule=2
+skippager=true
+skippagerrule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+wmclass=plasma-emojier org.kde.plasma.emojier
+wmclasscomplete=true
+wmclassmatch=1
